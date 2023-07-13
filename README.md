@@ -10,7 +10,7 @@ Pixelated Handmade Drawings Classifier is a repository that contains a classifie
 
 # Dataset
 
-The dataset used for training and testing the classifier has been made all by myself. In the [images folder](https://github.com/JonathanCruze/Drawings_Classificator/tree/main/images) there are various subfolders representing each class of simple drawings, such as: *House, Human face, Sword,* and *Heart* Each class subfolder contains multiple images of its corresponding type of drawing.
+The dataset used for training and testing the classifier has been made all by myself. In the [images folder](https://github.com/JonathanCruze/Drawings_Classificator/tree/main/images) there are various subfolders representing each class of simple drawings, such as: `House`, `Human face`, `Sword`, and `Heart`. Each class subfolder contains multiple images of its corresponding type of drawing.
 
 
 ---
