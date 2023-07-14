@@ -37,3 +37,7 @@ What makes this Whiteboard even more special to me is the fact that it played a 
 Once you created your pixelated masterpieces, you can simply upload them into the code cell below and observe the model's interpretation of your artwork.
 
 ![Model prediction on users drawings](Assets/predicted_image.png)
+
+---
+
+Thank you for taking the time to explore this repository. If you have any questions, feedback, or suggestions, please don't hesitate to reach out. I'm always open to new ideas and eager to improve.
